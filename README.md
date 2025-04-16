@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm [krishnapriya]</h1>
 
 <p align="center">
-  <em>Data Analyst | Web Developer | Python Enthusiast | Bot Builder | Problem Solver</em>
+  <em>Data Analyst | Web Developer | Python Enthusiast | Problem Solver</em>
 </p>
 
 ---
