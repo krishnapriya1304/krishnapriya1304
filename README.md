@@ -1,12 +1,8 @@
-<h1 align="center">Hi there 👋, I'm [krishnapriya]</h1>
+# Hi there 👋, I'm Krishnapriya
 
-<p align="center">
-  <em>Data Analyst | Web Developer | Python Enthusiast | Problem Solver</em>
-</p>
+## Data Analyst | Web Developer | Python Enthusiast | Problem Solver
 
----
-
-### 👨‍💻 About Me
+### About Me
 
 I'm a passionate **Data Analyst** and **Web Developer** who enjoys turning ideas into practical, data-driven applications. With a strong foundation in **Python**, **Flask**, and **front-end technologies**, I love building user-friendly web apps and intelligent tools that solve real-world problems.
 
@@ -15,5 +11,55 @@ My interests lie at the intersection of **data science**, **natural language pro
 I'm constantly learning, exploring new technologies, and seeking opportunities to grow both personally and professionally.
 
 ---
+
+### 📈 My GitHub Stats
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=krishnapriya1304.readme&left_color=green&right_color=blue&left_text=Views)
+
+---
+
+### 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/krishnapriya)
+- [Twitter](https://twitter.com/krishnapriya)
+- [Portfolio](https://krishnapriya.dev)
+- [Blog](https://medium.com/@krishnapriya)
+
+---
+
+### 🚀 Tech Stack
+
+- **Languages**: Python, JavaScript, HTML, CSS
+- **Frameworks**: Flask, Streamlit
+- **Libraries**: Pandas, NumPy, Matplotlib, NLTK, Scikit-learn
+- **Tools**: Git, GitHub, VS Code, Jupyter Notebook, Docker
+
+---
+
+### 📝 Projects
+
+- **Telegram Dictionary Bot**: A bot for students to search words, get definitions, synonyms, antonyms, and pronunciation, plus a spelling bee game.
+- **Movie Recommender System**: A Flask-based web app that recommends movies based on user preferences and ratings.
+- **Data Analysis Projects**: Various projects showcasing data cleaning, preprocessing, and analysis.
+
+---
+
+### 📊 My GitHub Stats
+
+![Krishnapriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnapriya1304&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+### 👨‍💻 I’m currently working on
+
+- Converting my **Movie Recommender System** into a fully-fledged web app.
+- Building a **Dictionary Web Bot** with Flask for students.
+- Exploring **machine learning** models and improving my data analysis skills.
+
+---
+
+Feel free to explore my projects, ask questions, or collaborate on something exciting! 😊
+
+
 
 ---
