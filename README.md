@@ -21,9 +21,6 @@ I'm constantly learning, exploring new technologies, and seeking opportunities t
 ### 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/krishnapriya)
-- [Twitter](https://twitter.com/krishnapriya)
-- [Portfolio](https://krishnapriya.dev)
-- [Blog](https://medium.com/@krishnapriya)
 
 ---
 
@@ -36,13 +33,6 @@ I'm constantly learning, exploring new technologies, and seeking opportunities t
 
 ---
 
-### 📝 Projects
-
-- **Telegram Dictionary Bot**: A bot for students to search words, get definitions, synonyms, antonyms, and pronunciation, plus a spelling bee game.
-- **Movie Recommender System**: A Flask-based web app that recommends movies based on user preferences and ratings.
-- **Data Analysis Projects**: Various projects showcasing data cleaning, preprocessing, and analysis.
-
----
 
 ### 📊 My GitHub Stats
 
@@ -50,16 +40,8 @@ I'm constantly learning, exploring new technologies, and seeking opportunities t
 
 ---
 
-### 👨‍💻 I’m currently working on
-
-- Converting my **Movie Recommender System** into a fully-fledged web app.
-- Building a **Dictionary Web Bot** with Flask for students.
-- Exploring **machine learning** models and improving my data analysis skills.
-
----
 
 Feel free to explore my projects, ask questions, or collaborate on something exciting! 😊
-
 
 
 ---
